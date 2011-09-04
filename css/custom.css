@@ -1,0 +1,122 @@
+/*
+* jQuery Mobile Framework
+* Copyright (c) jQuery Project
+* Dual licensed under the MIT (MIT-LICENSE.txt) and GPL (GPL-LICENSE.txt) licenses.
+*/
+
+/* 
+ * Custom generated themes for jQuery Mobile (http://jquery.org/license)
+ * Based on the default theme provided by jQuery Mobile
+ * Not part of the standard jQuery Mobile distribution
+ */
+
+/* f
+-----------------------------------------------------------------------------------------------------------*/
+
+.ui-bar-f {
+	border: 1px solid 		#00B000;
+	background: 			#00B000;
+	color: 					#FFFFFF;
+	font-weight: bold;
+	text-shadow: 0 0 0 #000;
+	background-image: -webkit-gradient(linear, left top, left bottom, from(#00D600), to(#00B000)); /* Saf4+, Chrome */
+	background-image: -webkit-linear-gradient(top, #00D600, #00B000); /* Chrome 10+, Saf5.1+ */
+	background-image:    -moz-linear-gradient(top, #00D600, #00B000); /* FF3.6 */
+	background-image:     -ms-linear-gradient(top, #00D600, #00B000); /* IE10 */
+	background-image:      -o-linear-gradient(top, #00D600, #00B000); /* Opera 11.10+ */
+	background-image:         linear-gradient(top, #00D600, #00B000);
+}
+.ui-bar-f, 
+.ui-bar-f input, 
+.ui-bar-f select, 
+.ui-bar-f textarea, 
+.ui-bar-f button {
+	font-family: Helvetica, Arial, sans-serif;
+}
+.ui-bar-f .ui-link-inherit {
+	color: 					#FFFFFF;
+}
+.ui-bar-f .ui-link {
+	color: 					#FFFFFF;
+	font-weight: bold;
+}
+.ui-body-f {
+	background: 			#CFCFCF;
+	color: 					#333333;
+	text-shadow: 0 0 0 	#000;
+	font-weight: normal;
+	background-image: -webkit-gradient(linear, left top, left bottom, from(#FFFFFF), to(#CFCFCF)); /* Saf4+, Chrome */
+	background-image: -webkit-linear-gradient(top, #FFFFFF, #CFCFCF); /* Chrome 10+, Saf5.1+ */
+	background-image:    -moz-linear-gradient(top, #FFFFFF, #CFCFCF); /* FF3.6 */
+	background-image:     -ms-linear-gradient(top, #FFFFFF, #CFCFCF); /* IE10 */
+	background-image:      -o-linear-gradient(top, #FFFFFF, #CFCFCF); /* Opera 11.10+ */
+	background-image:         linear-gradient(top, #FFFFFF, #CFCFCF);
+}
+.ui-body-f,
+.ui-body-f input,
+.ui-body-f select,
+.ui-body-f textarea,
+.ui-body-f button {
+	font-family: Helvetica, Arial, sans-serif;
+}
+.ui-body-f .ui-link-inherit {
+	color: 					#333333;
+}
+.ui-body-f .ui-link {
+	color: 					#2489CE;
+	font-weight: bold;
+}
+.ui-btn-up-f {
+	border: 1px solid 		#00B000;
+	background: 			#00B000;
+	font-weight: bold;
+	color: 					#FFFFFF;
+	text-shadow: 0 0 0 #000;
+	background-image: -webkit-gradient(linear, left top, left bottom, from(#00D600), to(#00B000)); /* Saf4+, Chrome */
+	background-image: -webkit-linear-gradient(top, #00D600, #00B000); /* Chrome 10+, Saf5.1+ */
+	background-image:    -moz-linear-gradient(top, #00D600, #00B000); /* FF3.6 */
+	background-image:     -ms-linear-gradient(top, #00D600, #00B000); /* IE10 */
+	background-image:      -o-linear-gradient(top, #00D600, #00B000); /* Opera 11.10+ */
+	background-image:         linear-gradient(top, #00D600, #00B000);
+}
+.ui-btn-up-f a.ui-link-inherit {
+	color: 					#FFFFFF;
+}
+.ui-btn-hover-f {
+	border: 1px solid 		#00B000;
+	background: 			#00B000;
+	font-weight: bold;
+	color: 					#FFFFFF;
+	text-shadow: 0 0 0 #000;
+	background-image: -webkit-gradient(linear, left top, left bottom, from(#00D600), to(#00B000)); /* Saf4+, Chrome */
+	background-image: -webkit-linear-gradient(top, #00D600, #00B000); /* Chrome 10+, Saf5.1+ */
+	background-image:    -moz-linear-gradient(top, #00D600, #00B000); /* FF3.6 */
+	background-image:     -ms-linear-gradient(top, #00D600, #00B000); /* IE10 */
+	background-image:      -o-linear-gradient(top, #00D600, #00B000); /* Opera 11.10+ */
+	background-image:         linear-gradient(top, #00D600, #00B000);
+}
+.ui-btn-hover-f a.ui-link-inherit {
+	color: 					#FFFFFF;
+}
+.ui-btn-down-f {
+	border: 1px solid 		#00B000;
+	background: 			#00B000;
+	font-weight: bold;
+	color: 					#FFFFFF;
+	text-shadow: 0 0 0 #000;
+	background-image: -webkit-gradient(linear, left top, left bottom, from(#00D600), to(#00B000)); /* Saf4+, Chrome */
+	background-image: -webkit-linear-gradient(top, #00D600, #00B000); /* Chrome 10+, Saf5.1+ */
+	background-image:    -moz-linear-gradient(top, #00D600, #00B000); /* FF3.6 */
+	background-image:     -ms-linear-gradient(top, #00D600, #00B000); /* IE10 */
+	background-image:      -o-linear-gradient(top, #00D600, #00B000); /* Opera 11.10+ */
+	background-image:         linear-gradient(top, #00D600, #00B000);
+}
+.ui-btn-down-f a.ui-link-inherit {
+	color: 					#FFFFFF;
+}
+.ui-btn-up-f,
+.ui-btn-hover-f,
+.ui-btn-down-f {
+	font-family: Helvetica, Arial, sans-serif;
+	text-decoration: none;
+}
